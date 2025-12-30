@@ -38,7 +38,7 @@ mvn -version
 
 Склонируйте репозиторий:
 
-git clone <URL репозитория>
+git clone https://github.com/Toxich2012/avito-tech-internship
 cd avito
 
 Обновите зависимости:
