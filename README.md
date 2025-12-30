@@ -3,9 +3,6 @@
 # Задание 2.1
 - В файлах TESTCASES.MD и BUGS.MD отображены тест-кейсы и баги задания 2.1 
 - Автотесты для задания 2.1 находятся: src/test/java/api
-# API Tests for Avito QA Internship  
-Автоматизированные тесты для сервиса объявлений  
-Host: https://qa-internship.avito.com
 
 ---
 
